@@ -1,0 +1,21 @@
+numero,empleado,puesto,turno,total_incidentes,total_dias_perdidos
+1,"Isabel Gutiérrez",Supervisor,Matutino,21,222
+2,"Leticia Aguilar",Técnico,Vespertino,21,106
+3,"Natalia Vega",Auxiliar,Vespertino,21,249
+4,"César Trejo",Técnico,Matutino,21,145
+5,"Natalia Trejo",Supervisor,"Guardia 14x7",20,102
+6,"César Ríos",Supervisor,"Guardia 14x7",20,170
+7,"Carlos López",Especialista,Nocturno,19,136
+8,"Hortensia Sosa",Operador,"Guardia 14x7",19,100
+9,"Liliana Palma",Inspector,Vespertino,19,241
+10,"César Palma",Operador,"Guardia 14x7",19,90
+11,"Pilar Montes",Supervisor,Matutino,19,63
+12,"César Sosa",Auxiliar,Matutino,19,143
+13,"Rosa García",Supervisor,Vespertino,18,161
+14,"Roberto Díaz",Especialista,Nocturno,18,178
+15,"Fernando Jiménez",Auxiliar,Matutino,18,229
+16,"Alejandro Cruz",Supervisor,Vespertino,18,77
+17,"Ignacio Sosa",Especialista,Nocturno,18,137
+18,"Oscar Montes",Inspector,"Guardia 14x7",18,225
+19,"Diana Cabrera",Inspector,Matutino,18,171
+20,"Fabiola Delgado",Inspector,Matutino,18,80
