@@ -1,0 +1,5 @@
+turno,total_incidentes,costo_promedio,dias_perdidos_promedio,incidentes_graves,pct_graves
+Nocturno,566,34950.61,7.61,119,21.02
+"Guardia 14x7",557,24263.46,6.47,95,17.06
+Vespertino,496,30304.07,7.77,90,18.15
+Matutino,381,29337.83,7.47,77,20.21
