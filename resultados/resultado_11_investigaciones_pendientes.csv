@@ -1,0 +1,7 @@
+tipo_incidente,requiere_investigacion,total_incidentes,pendientes,pct_pendiente
+Golpe,0,609,116,19.05
+Caída,1,429,91,21.21
+"Esfuerzo físico",0,373,72,19.30
+Incendio/Explosión,1,181,46,25.41
+Quemadura,1,182,41,22.53
+"Exposición química",1,226,34,15.04
