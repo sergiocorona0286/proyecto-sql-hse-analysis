@@ -1,8 +1,10 @@
-# \# Análisis de Incidentes HSE con SQL
+# \# Análisis de Incidentes HSE con SQL y Python
+
+# 
 
 # \*\*Autor:\*\* Sergio Ulises Corona Sánchez
 
-# \*\*Herramientas:\*\* MySQL 8.0 · MySQL Workbench
+# \*\*Herramientas:\*\* MySQL 8.0 · MySQL Workbench · Python · Pandas · Matplotlib · Seaborn
 
 # \*\*Periodo de datos:\*\* 2022 – 2024
 
@@ -16,7 +18,27 @@
 
 # 
 
-# Análisis de 2,000 incidentes de seguridad industrial (HSE) registrados en un entorno operativo de 8 áreas durante 3 años. El proyecto demuestra el uso de SQL avanzado aplicado a un dominio real: seguridad e higiene industrial.
+# Análisis completo de 2,000 incidentes de seguridad industrial (HSE) registrados en 8 áreas operativas durante 3 años. El proyecto combina SQL avanzado para extracción y transformación de datos, con Python para visualización e interpretación de resultados.
+
+# 
+
+# \---
+
+# 
+
+# \## Estructura del repositorio
+
+# 
+
+# &#x20;   proyecto-sql-hse-analysis/
+
+# &#x20;   ├── hse\_setup.sql               # Creación de base de datos y carga de datos
+
+# &#x20;   ├── consultas/                  # 12 scripts SQL con análisis progresivo
+
+# &#x20;   ├── resultados/                 # CSVs exportados y gráficas generadas
+
+# &#x20;   └── analisis\_resultados.ipynb   # Notebook de análisis y visualizaciones
 
 # 
 
@@ -46,7 +68,7 @@
 
 # 
 
-# \## Consultas desarrolladas
+# \## Consultas SQL desarrolladas
 
 # 
 
@@ -84,6 +106,28 @@
 
 # 
 
+# \## Hallazgos principales
+
+# 
+
+# \- El costo total de incidentes HSE en el periodo superó los \*\*60 millones MXN\*\*.
+
+# \- \*\*Mantenimiento\*\* es el área más crítica: primer lugar en incidentes, costo total y tasa de incidentes graves.
+
+# \- La reincidencia promedio es \*\*27.6%\*\*, indicando fallas sistémicas en el cierre de acciones correctivas.
+
+# \- El \*\*20.4%\*\* de las investigaciones están pendientes, dejando causas raíz sin identificar.
+
+# \- \*\*Producción\*\* tiene la mayor tasa de reincidencia (31.3%) a pesar de tener la menor tasa de incidentes graves.
+
+# \- \*\*Almacén\*\* presenta el mejor desempeño relativo en todos los KPIs analizados.
+
+# 
+
+# \---
+
+# 
+
 # \## Conceptos SQL demostrados
 
 # 
@@ -94,7 +138,7 @@
 
 # \- Window Functions: RANK(), ROW\_NUMBER(), SUM() OVER, LAG()
 
-# \- Common Table Expressions (CTEs)
+# \- Common Table Expressions (CTEs) simples y múltiples
 
 # \- CASE WHEN para lógica condicional
 
@@ -110,5 +154,5 @@
 
 # 
 
-# Proyecto desarrollado como parte del portafolio de análisis de datos, combinando conocimientos técnicos de SQL con experiencia real en seguridad industrial (HSE) adquirida en Pemex Exploración y Producción.
+# Proyecto desarrollado como parte del portafolio de análisis de datos, combinando conocimientos técnicos de SQL y Python con experiencia real en seguridad industrial (HSE) adquirida en Pemex Exploración y Producción.
 
