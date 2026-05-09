@@ -1,0 +1,9 @@
+area,total_incidentes,costo_total,promedio_dias_perdidos,total_graves,pct_graves,total_reincidencias,pct_reincidencia,ranking_costo
+Mantenimiento,269,11514789.99,8.17,61,22.68,73,27.14,1
+Oficinas,268,10066797.81,7.59,51,19.03,79,29.48,2
+Perforación,250,10059607.64,7.88,46,18.40,69,27.60,3
+Laboratorio,229,9320740.88,8.38,47,20.52,62,27.07,4
+Transporte,249,8156035.75,6.49,45,18.07,69,27.71,5
+Producción,246,7588315.32,6.81,39,15.85,77,31.30,6
+Construcción,253,7576268.32,6.95,50,19.76,66,26.09,7
+Almacén,236,7555630.51,6.10,42,17.80,58,24.58,8
